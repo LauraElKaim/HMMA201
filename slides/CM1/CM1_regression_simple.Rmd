@@ -220,7 +220,7 @@ $$\mathbf{y} = \beta_0 \mathbb{1} + \beta_1 \mathbf{x} + \boldsymbol{\epsilon}$$
 
 The OLS estimators $\hat{\beta}_0$ and $\hat{\beta}_1$ are given by:
 
-$$ (\hat{\beta}_0, \hat{\beta}_0) 
+$$ (\hat{\beta}_0, \hat{\beta}_1) 
 = \underset{(\beta_0, \beta_1) \in \mathbb{R}^2}{\operatorname{argmin}} 
 \left\{
 \sum_{i = 1}^n (y_i - \beta_0 - \beta_1 x_i)^2
